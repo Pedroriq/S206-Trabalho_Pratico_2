@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: age_of_empires.AgeRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.497 s - in age_of_empires.AgeRunner
